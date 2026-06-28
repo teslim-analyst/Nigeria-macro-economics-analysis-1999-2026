@@ -1,4 +1,4 @@
-[Nigeria Macroeconomic Analysis Dashboard](summarised BI picture.png)
+![Nigeria Macroeconomic Analysis Dashboard](summarised%20BI%20picture.png)
 🇳🇬 Nigeria Macroeconomic Analysis Dashboard (1999–2026)
 
 Overview
