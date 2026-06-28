@@ -1,4 +1,4 @@
-1_Nigeria Macroeconomic Analysis (1999–2026)
+Nigeria Macroeconomic Analysis (1999–2026)
 
 Overview
 
